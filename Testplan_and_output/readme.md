@@ -1,7 +1,7 @@
 ## Test_ID
-H_01 
-H_02 
-H_03 
+* H_01 
+* H_02 
+* H_03 
 # Description	
 To check whether the name variable is given in strings or not	
 check Whether the mobile number given contains only 10 digits
