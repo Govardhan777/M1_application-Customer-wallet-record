@@ -1,7 +1,7 @@
 # Test Plan                                                                                     
 
 
-#est_ID    |        	## Description                                                               	Expected_input	                            Expected_output
+## test_ID    |        	 Description                                                               	Expected_input	                            Expected_output
 
 
 H_01	  | To check whether the name variable is given in strings or not      |         	strings without spaces	            Name variable should be assigned with the                                                                                                                                         given string
