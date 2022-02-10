@@ -62,7 +62,7 @@ void main()
                 main();
                 break;
             case '6':
-                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY PAVAN------->>>>>");
+                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY GOVARDHAN ------->>>>>");
                 exit(0);
                 break;
         }
