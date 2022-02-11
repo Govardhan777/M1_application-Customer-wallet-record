@@ -1,4 +1,5 @@
  Requirements
+ 
  Introduction
  The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
  Customer Wallet Record (Cutomer Billing System) is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
@@ -71,8 +72,8 @@ The Customer Wallet Record System interacts with :
  Any information regarding product restocking and new arrivals can be easily conveyed.
 
  Threats
-* Can be easily replicated.
-* The customers data can be stolen.
+ Can be easily replicated.
+ The customers data can be stolen.
 
  High and Low Level Requirements
 
