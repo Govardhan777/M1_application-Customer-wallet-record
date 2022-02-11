@@ -1,4 +1,4 @@
- Requirements
+ # Requirements
  
  Introduction
  The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
