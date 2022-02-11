@@ -4,3 +4,4 @@ M1_application-Customer-wallet-record
 [![Unit Testing - Unity](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/unity.yml/badge.svg)](https://github.com/A123456fgh/M1_application_customerswalletrecord/actions/workflows/unity.yml)
 
 [![Cppcheck](https://github.com/Govardhan777/M1_application-Customer-wallet-record/actions/workflows/main.yml/badge.svg)](https://github.com/Govardhan777/M1_application-Customer-wallet-record/actions/workflows/main.yml)
+[![Manual workflow](https://github.com/Govardhan777/M1_application-Customer-wallet-record/actions/workflows/testing.yml/badge.svg)](https://github.com/Govardhan777/M1_application-Customer-wallet-record/actions/workflows/testing.yml)
