@@ -24,7 +24,7 @@ The customer account includes customer contact, profile information, account num
  Payments
 Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
 4W and 1H
-Who:
+Who
 This is to maintain the record of customers in local stores
 
  What
@@ -79,7 +79,7 @@ The Customer Wallet Record System interacts with :
  High Level Requirements
 
 | ID  | Description  | Category  | Status  |
-| --- | ------------ | --------- | ------- |
+
 | HR01| New customer can create account | Techinal | TBI |
 | HR02| Customer can mantain a Balance | Technical | TBI |
 | HR03| Customer information can be displayed| Technical | TBI|
