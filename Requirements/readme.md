@@ -1,7 +1,7 @@
  Requirements
  Introduction
-* The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
-* Customer Wallet Record (Cutomer Billing System) is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
+ The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
+ Customer Wallet Record (Cutomer Billing System) is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
 
 Customer Wallet Record System Features
 
@@ -9,11 +9,11 @@ The main aim of Customer Wallet Record (Customer Billing System) is to maintain 
 It capable of billing more quickly, accurately and update customer record and enables customer to view bill information.
 
  Services Offered to the Customers
-* A customer can create an account for his own and give his details such as address to be stored.
-* This helps the store to provide home delivery to the customer.
-* The billing history of the customer is maintained.
-* The customer can maintain some amount as balance to pay cash less as and when required in any brach of that departmental store.
-* The customer can edit the information in his account as and when required.
+ A customer can create an account for his own and give his details such as address to be stored.
+ This helps the store to provide home delivery to the customer.
+ The billing history of the customer is maintained.
+ The customer can maintain some amount as balance to pay cash less as and when required in any brach of that departmental store.
+ The customer can edit the information in his account as and when required.
 
  Services
 Service is the entity offered by the company and targeted to the customers.
@@ -42,33 +42,33 @@ Wallet record is an application that will take input from user or store manageme
 
  Integration
 The Customer Wallet Record System interacts with :
-  * Banking applications
-  * Firewalls
-  * Authentication gateways
+   Banking applications
+   Firewalls
+   Authentication gateways
   
 ![](usecase.png)
 
  Features Provided in the Program
-* To create New Account
-* To update the existing account
-* To print information of all the customers
-* To search for an account
-* Adding Amount to Existing Customer's Wallet
+ To create New Account
+ To update the existing account
+ To print information of all the customers
+ To search for an account
+ Adding Amount to Existing Customer's Wallet
 
  SWOT Analysis
 
  Strengths
-* String Relationship with Existing suppliers.
-* Faster and Accurate Billing.
-* Customer can go cashless if they have balance in the account.
+ String Relationship with Existing suppliers.
+ Faster and Accurate Billing.
+ Customer can go cashless if they have balance in the account.
 
  Weaknesses
-* Application would not work in case of network issues.
-* Maintaining a huge database with growing customers can be tedious.
+ Application would not work in case of network issues.
+ Maintaining a huge database with growing customers can be tedious.
 
  Opportunities
-* Home delivery facility can be provided.
-* Any information regarding product restocking and new arrivals can be easily conveyed.
+ Home delivery facility can be provided.
+ Any information regarding product restocking and new arrivals can be easily conveyed.
 
  Threats
 * Can be easily replicated.
@@ -91,7 +91,7 @@ The Customer Wallet Record System interacts with :
 | HR08| The information of the customer sould not be leaked| Scenario | FUTURE|
 | HR09| All the tracsanctions fron the creation of the account have to be maintained | Technical | FUTURE|
 
-## Low Level Requirements
+ Low Level Requirements
 
 |ID | Description | HRID | Status|
 |---|-------------|------|-------|
