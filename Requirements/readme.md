@@ -1,27 +1,27 @@
-# Requirements
-# Introduction
+Requirements
+ Introduction
 * The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
 * Customer Wallet Record (Cutomer Billing System) is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
 
-## Customer Wallet Record System Features
+Customer Wallet Record System Features
 
 The main aim of Customer Wallet Record (Customer Billing System) is to maintain the information and payment history of the customer.It has the capacity to illustrate and analyze the basic billing system and the main functionalities that surround the billing system from a business prospective and explains how each interacts to complete the billing cycle.
 It capable of billing more quickly, accurately and update customer record and enables customer to view bill information.
 
-### Services Offered to the Customers
+ Services Offered to the Customers
 * A customer can create an account for his own and give his details such as address to be stored.
 * This helps the store to provide home delivery to the customer.
 * The billing history of the customer is maintained.
 * The customer can maintain some amount as balance to pay cash less as and when required in any brach of that departmental store.
 * The customer can edit the information in his account as and when required.
 
-### Services
+#Services
 Service is the entity offered by the company and targeted to the customers.
 
-### Accounts
+# Accounts
 The customer account includes customer contact, profile information, account number, city and balance amount in the account.
 
-### Payments
+# Payments
 Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
 # 4W and 1H
 ## Who:
@@ -40,7 +40,7 @@ This application is mainly developed for local stores.
 Wallet record is an application that will take input from user or store management such as customer details then it will create account for that customer in the memory and stores every record.
 ## System Definition
 
-### Integration
+#  Integration
 The Customer Wallet Record System interacts with :
   * Banking applications
   * Firewalls
@@ -48,35 +48,35 @@ The Customer Wallet Record System interacts with :
   
 ![](usecase.png)
 
-### Features Provided in the Program
+# Features Provided in the Program
 * To create New Account
 * To update the existing account
 * To print information of all the customers
 * To search for an account
 * Adding Amount to Existing Customer's Wallet
 
-## SWOT Analysis
+# SWOT Analysis
 
-### Strengths
+# Strengths
 * String Relationship with Existing suppliers.
 * Faster and Accurate Billing.
 * Customer can go cashless if they have balance in the account.
 
-### Weaknesses
+ # Weaknesses
 * Application would not work in case of network issues.
 * Maintaining a huge database with growing customers can be tedious.
 
-### Opportunities
+# Opportunities
 * Home delivery facility can be provided.
 * Any information regarding product restocking and new arrivals can be easily conveyed.
 
-### Threats
+ Threats
 * Can be easily replicated.
 * The customers data can be stolen.
 
-# High and Low Level Requirements
+ High and Low Level Requirements
 
-## High Level Requirements
+ High Level Requirements
 
 | ID  | Description  | Category  | Status  |
 | --- | ------------ | --------- | ------- |
