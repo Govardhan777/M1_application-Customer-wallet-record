@@ -1,7 +1,7 @@
 Implementation
 
 Folder        | Description
-| 
+              | 
 `inc`         | All header files
 `src`         | Main source code files
 `test`        | All source code and data for testing purposes
