@@ -1,5 +1,5 @@
 # Requirements
-## Introduction
+# Introduction
 * The growth in business also lead to the growth in the need of E-billing applications using Wallets Records where all the information regarding the customer transanctions in that departmental store can be maintained online.
 * Customer Wallet Record (Cutomer Billing System) is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
 
@@ -94,7 +94,7 @@ The Customer Wallet Record System interacts with :
 ## Low Level Requirements
 
 |ID | Description | HRID | Status|
-|---|-------------|------|-------|
+
 |LR01| For Each new account a new array cell of structure type have to be created| HR01 | TBI|
 |LR02| Balance can be mantanied by creating a structure array each cell holding information of the user and their balance| HR02| TBI|
 |LR03| Customer information can be displayed by printing the structure array| HR03| TBI|
